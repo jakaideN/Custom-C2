@@ -17,6 +17,7 @@ Then throw the exe on the victim machine
 This is how exe works:
 
 
-![arch](https://user-images.githubusercontent.com/45479002/205272084-c65cfe86-fb6b-4eeb-a113-d31581ac2ea2.png)
+![arch](https://user-images.githubusercontent.com/45479002/205278255-a2782616-6b90-4a6a-af80-c329653c7889.png)
+
 
 ![poc_for_github](https://user-images.githubusercontent.com/45479002/205272116-fa17a9b3-2ba2-4f3b-8d4d-2c5ef19b8370.png)
